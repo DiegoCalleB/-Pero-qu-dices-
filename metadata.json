@@ -1,0 +1,6 @@
+{
+  "name": "¿Pero qué dices?",
+  "description": "El juego viral de sobremesa navideña donde grabas, inviertes la voz e intentas hablar al revés en comidas de familia, cenas de empresa y fiestas con amigos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
